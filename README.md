@@ -21,3 +21,9 @@ SHA-256 Hash: 696a5b65a6beb9fddebc42e656e44e9ea0da1eb24b381afb131f12b3a9cfdc84
 SHA-1 Hash: 25076e1f370859bf813c7c88d9298364846a619d
 MD5 Hash: 4c6e66fab7cb4d0728248c9c1ee630c5
 Download file
+
+ qt-opensource-windows-x86-mingw482_opengl-5.3.1.exe
+第一种是使用mingw编译和调试开发的Qt。开始学习的建议安装第一种，自带gcc编译器和gdb调试器。安装过程就不说了，一路绿灯就行。
+ qt-opensource-windows-x86-msvc2012_opengl-5.3.1.exe
+ qt-opensource-windows-x86-msvc2010_opengl-5.3.1.exe
+第二种（红线中）是使用msvc也就是vs调试和编译的Qt。
